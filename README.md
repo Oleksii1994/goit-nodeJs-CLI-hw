@@ -1,7 +1,8 @@
-#CLI
+# CLI
+
 This is a command line interface for reading list of contacts, getting contact by ID, adding new contact, deleting contact using contact's ID
 
-##Available commands which you can use in the command line
+## Available commands which you can use in the command line
 
 To get the list of all contacts in table format:
 
